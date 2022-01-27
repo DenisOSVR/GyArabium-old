@@ -1,0 +1,9 @@
+Building Gyarabium
+
+See doc/readme-qt.rst for instructions on building Gyarabium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gyarabium.
+
+See doc/build-*.txt for instructions on building gyarabiumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gyarabium.
